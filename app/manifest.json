@@ -1,0 +1,27 @@
+{
+    "name": "DiaTracker (Sugar tracking, Medicine reminders)",
+    "short_name": "DiaTracker",
+    "icons": [
+      {
+        "src": "/icons/192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/icons/384.png",
+        "sizes": "384x384",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#BAEFC3",
+    "background_color": "#222222",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
